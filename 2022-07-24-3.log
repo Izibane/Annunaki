@@ -1,0 +1,799 @@
+[16:07:06] [Client thread/INFO]: Setting user: izibane
+[16:07:06] [Client thread/INFO]: (Session ID is token:eyJhbGciOiJIUzI1NiJ9.eyJ4dWlkIjoiMjUzNTQ1NzQ2MTkxNzM4MSIsImFnZyI6IkFkdWx0Iiwic3ViIjoiOWY0YzJmZWYtYjFkNC00YjU1LTlmMTUtMjM4YjBkMmIyYTMyIiwibmJmIjoxNjU4Njc1MjI1LCJhdXRoIjoiWEJPWCIsInJvbGVzIjpbXSwiaXNzIjoiYXV0aGVudGljYXRpb24iLCJleHAiOjE2NTg3NjE2MjUsImlhdCI6MTY1ODY3NTIyNSwicGxhdGZvcm0iOiJQQ19MQVVOQ0hFUiIsInl1aWQiOiI0ZGVjNjFiNDgwNzQwYTdhOGVlNjRkNWM4OGE1ZTljYSJ9.9I6Ir77pvwpXnsRNfS_MmDkfM_0sox3sqQLFjs4-rPs:17ec8786688d4e078e6ebc780072ded8)
+[16:07:07] [Client thread/WARN]: Skipping bad option: key_key.attack:key.mouse.left
+[16:07:07] [Client thread/WARN]: Skipping bad option: key_key.use:key.mouse.right
+[16:07:07] [Client thread/WARN]: Skipping bad option: key_key.forward:key.keyboard.w
+[16:07:07] [Client thread/WARN]: Skipping bad option: key_key.left:key.keyboard.a
+[16:07:07] [Client thread/WARN]: Skipping bad option: key_key.back:key.keyboard.s
+[16:07:07] [Client thread/WARN]: Skipping bad option: key_key.right:key.keyboard.d
+[16:07:07] [Client thread/WARN]: Skipping bad option: key_key.jump:key.keyboard.space
+[16:07:07] [Client thread/WARN]: Skipping bad option: key_key.sneak:key.keyboard.left.shift
+[16:07:07] [Client thread/WARN]: Skipping bad option: key_key.sprint:key.keyboard.left.control
+[16:07:07] [Client thread/WARN]: Skipping bad option: key_key.drop:key.keyboard.q
+[16:07:07] [Client thread/WARN]: Skipping bad option: key_key.inventory:key.keyboard.e
+[16:07:07] [Client thread/WARN]: Skipping bad option: key_key.chat:key.keyboard.t
+[16:07:07] [Client thread/WARN]: Skipping bad option: key_key.playerlist:key.keyboard.tab
+[16:07:07] [Client thread/WARN]: Skipping bad option: key_key.pickItem:key.mouse.middle
+[16:07:07] [Client thread/WARN]: Skipping bad option: key_key.command:key.keyboard.slash
+[16:07:07] [Client thread/WARN]: Skipping bad option: key_key.screenshot:key.keyboard.f2
+[16:07:07] [Client thread/WARN]: Skipping bad option: key_key.togglePerspective:key.keyboard.f5
+[16:07:07] [Client thread/WARN]: Skipping bad option: key_key.smoothCamera:key.keyboard.unknown
+[16:07:07] [Client thread/WARN]: Skipping bad option: key_key.fullscreen:key.keyboard.f11
+[16:07:07] [Client thread/WARN]: Skipping bad option: key_key.spectatorOutlines:key.keyboard.unknown
+[16:07:07] [Client thread/WARN]: Skipping bad option: key_key.hotbar.1:key.keyboard.1
+[16:07:07] [Client thread/WARN]: Skipping bad option: key_key.hotbar.2:key.keyboard.2
+[16:07:07] [Client thread/WARN]: Skipping bad option: key_key.hotbar.3:key.keyboard.3
+[16:07:07] [Client thread/WARN]: Skipping bad option: key_key.hotbar.4:key.keyboard.4
+[16:07:07] [Client thread/WARN]: Skipping bad option: key_key.hotbar.5:key.keyboard.5
+[16:07:07] [Client thread/WARN]: Skipping bad option: key_key.hotbar.6:key.keyboard.6
+[16:07:07] [Client thread/WARN]: Skipping bad option: key_key.hotbar.7:key.keyboard.7
+[16:07:07] [Client thread/WARN]: Skipping bad option: key_key.hotbar.8:key.keyboard.8
+[16:07:07] [Client thread/WARN]: Skipping bad option: key_key.hotbar.9:key.keyboard.9
+[16:07:07] [Client thread/INFO]: LWJGL Version: 2.9.4
+[16:07:07] [Client thread/INFO]: Reloading ResourceManager: Default
+[16:07:07] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:07:08] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[16:07:08] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:07:08] [Thread-6/INFO]: OpenAL initialized.
+[16:07:08] [Sound Library Loader/INFO]: Sound engine started
+[16:07:08] [Client thread/INFO]: Created: 512x512 textures-atlas
+[16:07:13] [Client thread/INFO]: Connecting to 78.108.218.19, 25606
+[16:08:21] [Client thread/INFO]: Connecting to 78.108.218.19, 25606
+[16:08:24] [Client thread/INFO]: Connecting to direct.mcprison.com., 29100
+[16:08:26] [Client thread/INFO]: Connecting to direct.mcprison.com., 29100
+[16:09:55] [Client thread/INFO]: Connecting to 78.108.218.19, 25606
+[16:09:56] [Client thread/INFO]: [CHAT] izibane joined the game
+[16:10:00] [Client thread/INFO]: [CHAT] [Salers: Opped izibane]
+[16:10:00] [Client thread/INFO]: [CHAT] Unknown command. Type "/help" for help.
+[16:10:02] [Client thread/INFO]: [CHAT] Unknown command. Type "/help" for help.
+[16:10:03] [Client thread/INFO]: [CHAT] Plugins (6): WorldEdit, Citizens, spark, Annunaki, Essentials, Sentinel
+[16:10:04] [Client thread/INFO]: [CHAT] /annunaki, /annunaki:annunaki, /antioch, /anvil
+[16:10:05] [Client thread/INFO]: [CHAT] Annunaki AntiCheat
+[16:10:05] [Client thread/INFO]: [CHAT] - /annunaki alerts
+[16:10:05] [Client thread/INFO]: [CHAT] - /annunaki debug
+[16:10:06] [Client thread/INFO]: [CHAT] <Salers> ./annunaki
+[16:10:07] [Client thread/INFO]: [CHAT] Alerts are now enabled!
+[16:10:11] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dAim (D) ˜5x1
+[16:10:11] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dAim (D) ˜5x2
+[16:10:11] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dAim (D) ˜5x3
+[16:10:11] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dAim (D) ˜5x4
+[16:10:12] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dAim (D) ˜5x5
+[16:10:25] [Client thread/INFO]: [CHAT] Unknown command. Type "/help" for help.
+[16:10:29] [Client thread/INFO]: [CHAT] Debug messages are now disabled.
+[16:10:30] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (B)* ˜5x1
+[16:10:30] [Client thread/INFO]: [CHAT] Debug messages are now disabled.
+[16:10:30] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x1
+[16:10:30] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x1
+[16:10:30] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x2
+[16:10:32] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dAim (D) ˜5x6
+[16:10:33] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dAim (D) ˜5x7
+[16:10:39] [Client thread/INFO]: [CHAT] <Salers> tt
+[16:10:40] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x3
+[16:10:40] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x4
+[16:10:40] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x2
+[16:10:45] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x3
+[16:10:46] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x4
+[16:10:46] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (B)* ˜5x2
+[16:10:47] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x5
+[16:10:48] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (B)* ˜5x3
+[16:10:48] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x6
+[16:10:48] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (B)* ˜5x4
+[16:10:49] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x7
+[16:10:56] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x8
+[16:10:57] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (B)* ˜5x5
+[16:10:57] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x9
+[16:10:58] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (B)* ˜5x6
+[16:11:01] [Client thread/INFO]: [CHAT] <Salers> dude
+[16:11:08] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dAim (D) ˜5x8
+[16:11:08] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dAim (D) ˜5x9
+[16:11:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dAim (D) ˜5x10
+[16:11:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dAim (D) ˜5x11
+[16:11:10] [Client thread/INFO]: [CHAT] <Salers> look at the reach b howver
+[16:11:10] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dAim (D) ˜5x12
+[16:11:10] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dAim (D) ˜5x13
+[16:11:11] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dAim (D) ˜5x14
+[16:11:11] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dAim (D) ˜5x15
+[16:11:11] [Client thread/INFO]: [CHAT] <Salers> look at the reach b howver
+[16:11:13] [Client thread/INFO]: [CHAT] <Salers> look at the reach b hovere
+[16:11:14] [Client thread/INFO]: [CHAT] <Salers> look at the reach b hover
+[16:11:14] [Client thread/INFO]: [CHAT] <izibane> yeah
+[16:11:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x10
+[16:11:17] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x11
+[16:11:18] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x12
+[16:11:18] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x5
+[16:11:18] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x6
+[16:11:18] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (B)* ˜5x7
+[16:11:18] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (A) ˜5x1
+[16:11:18] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (A) ˜5x2
+[16:11:19] [Client thread/INFO]: [CHAT] <izibane> 1.7
+[16:11:22] [Client thread/INFO]: [CHAT] <Salers> ..
+[16:11:24] [Client thread/INFO]: [CHAT] <Salers> yes
+[16:11:59] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x13
+[16:12:01] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x14
+[16:12:02] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x1
+[16:12:02] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x2
+[16:12:02] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (C) ˜5x1
+[16:12:02] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x3
+[16:12:02] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (C) ˜5x2
+[16:12:02] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x4
+[16:12:02] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (C) ˜5x3
+[16:12:02] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x5
+[16:12:02] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (C) ˜5x4
+[16:12:02] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x6
+[16:12:03] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x15
+[16:12:04] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (B)* ˜5x8
+[16:12:04] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x1
+[16:12:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x16
+[16:12:10] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x2
+[16:12:10] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x17
+[16:12:11] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x18
+[16:12:11] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x19
+[16:12:12] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x20
+[16:12:12] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x21
+[16:12:13] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x7
+[16:12:13] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x22
+[16:12:13] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x8
+[16:12:13] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (C) ˜5x5
+[16:12:13] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x9
+[16:12:13] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (C) ˜5x6
+[16:12:13] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x10
+[16:12:17] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (C) ˜5x7
+[16:12:17] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x11
+[16:12:17] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (C) ˜5x8
+[16:12:17] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x12
+[16:12:17] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x13
+[16:12:18] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x23
+[16:12:18] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (B)* ˜5x9
+[16:12:19] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x7
+[16:12:19] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x8
+[16:12:19] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x9
+[16:12:19] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x24
+[16:12:19] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x10
+[16:12:19] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (B)* ˜5x10
+[16:12:19] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x11
+[16:12:19] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x12
+[16:12:19] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x13
+[16:12:19] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x14
+[16:12:19] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (B)* ˜5x11
+[16:12:19] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x25
+[16:12:19] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x15
+[16:12:19] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x16
+[16:12:19] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x17
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x1
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x2
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x3
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x4
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x5
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x6
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x7
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x8
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x9
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x10
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x11
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x12
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x13
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x14
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x15
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x16
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x17
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x18
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x19
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x20
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x21
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x22
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x23
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x24
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x25
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x26
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x27
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x28
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x29
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x30
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x31
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x32
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x33
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x34
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x35
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x36
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x37
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x38
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x39
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x40
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x41
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x42
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x43
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x44
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x45
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x46
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x47
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x48
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x49
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x50
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x51
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x52
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x53
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x54
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x55
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x56
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x57
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x58
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x59
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x60
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x61
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x62
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x63
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x64
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x65
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x66
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x67
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x68
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x69
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x70
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x71
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x72
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x73
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x74
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x75
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x76
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x77
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x78
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x79
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x80
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x81
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x82
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x83
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x84
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x85
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x86
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x87
+[16:13:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dTimer (B) ˜5x88
+[16:13:33] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dAim (D) ˜5x16
+[16:13:33] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dMotion (A) ˜5x1
+[16:13:33] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dAim (D) ˜5x17
+[16:13:34] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dMotion (A) ˜5x2
+[16:13:34] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dMotion (A) ˜5x3
+[16:13:34] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dReach (B)* ˜5x1
+[16:13:35] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dMotion (A) ˜5x4
+[16:13:46] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x26
+[16:13:46] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (B)* ˜5x12
+[16:13:47] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x3
+[16:13:47] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (B)* ˜5x13
+[16:13:47] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x27
+[16:13:48] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x28
+[16:13:48] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x29
+[16:13:52] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x30
+[16:13:52] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (B)* ˜5x14
+[16:13:52] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x31
+[16:13:52] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x14
+[16:13:52] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x15
+[16:13:53] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x16
+[16:13:53] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x32
+[16:13:55] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x17
+[16:13:55] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x33
+[16:13:55] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x18
+[16:13:56] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x19
+[16:13:56] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x20
+[16:13:56] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x34
+[16:13:56] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x21
+[16:13:56] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x22
+[16:13:57] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x23
+[16:13:57] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x35
+[16:13:57] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x24
+[16:13:57] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x25
+[16:13:57] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x26
+[16:13:57] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x36
+[16:13:58] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x27
+[16:14:00] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x28
+[16:14:00] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x29
+[16:14:00] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x30
+[16:14:00] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x31
+[16:14:00] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x32
+[16:14:07] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (B)* ˜5x15
+[16:14:08] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x37
+[16:14:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x38
+[16:14:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x39
+[16:14:10] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x40
+[16:14:11] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x41
+[16:14:11] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x42
+[16:14:13] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x43
+[16:14:16] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dAim (D) ˜5x18
+[16:14:16] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dAim (D) ˜5x19
+[16:14:24] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x44
+[16:14:24] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x18
+[16:14:29] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (B) ˜5x1
+[16:14:29] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x45
+[16:14:30] [Client thread/INFO]: [CHAT] <izibane> your flag makes no sense, mine does slightly
+[16:14:30] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x46
+[16:14:32] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x47
+[16:14:33] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dAim (D) ˜5x20
+[16:14:33] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dReach (B)* ˜5x2
+[16:14:33] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dAim (D) ˜5x21
+[16:14:33] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dAim (D) ˜5x22
+[16:14:33] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dMotion (A) ˜5x5
+[16:14:34] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dAim (D) ˜5x23
+[16:14:34] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dAim (D) ˜5x24
+[16:14:34] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dMotion (A) ˜5x6
+[16:14:38] [Client thread/INFO]: [CHAT] <izibane> nope nvm
+[16:14:40] [Client thread/INFO]: [CHAT] Teleporting to izibane.
+[16:14:42] [Client thread/INFO]: [CHAT] Teleporting to izibane.
+[16:14:42] [Client thread/INFO]: [CHAT] Teleporting to izibane.
+[16:14:42] [Client thread/INFO]: [CHAT] <Salers> aimd falses a ton wtf
+[16:14:42] [Client thread/INFO]: [CHAT] Teleporting to izibane.
+[16:14:43] [Client thread/INFO]: [CHAT] Teleporting to izibane.
+[16:14:43] [Client thread/INFO]: [CHAT] Teleporting to izibane.
+[16:14:43] [Client thread/INFO]: [CHAT] Teleporting to Salers.
+[16:14:43] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dTimer (B) ˜5x1
+[16:14:43] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dTimer (B) ˜5x2
+[16:15:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (B)* ˜5x16
+[16:15:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x48
+[16:15:22] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x49
+[16:15:23] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x4
+[16:15:23] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (B)* ˜5x17
+[16:15:23] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x50
+[16:15:29] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x51
+[16:15:30] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x52
+[16:15:30] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x53
+[16:15:31] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x54
+[16:15:32] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x55
+[16:15:33] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x56
+[16:16:17] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x19
+[16:16:17] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x20
+[16:16:17] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x57
+[16:16:17] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x21
+[16:16:31] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (B)* ˜5x18
+[16:16:31] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x58
+[16:16:32] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x59
+[16:16:32] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x1
+[16:16:32] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x2
+[16:16:33] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x60
+[16:16:33] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (B)* ˜5x19
+[16:16:33] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x3
+[16:16:33] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x4
+[16:16:34] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x61
+[16:16:34] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (B)* ˜5x20
+[16:16:35] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x62
+[16:16:36] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x5
+[16:16:36] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x6
+[16:16:58] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dAim (D) ˜5x25
+[16:17:31] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x7
+[16:17:32] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x8
+[16:17:32] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x9
+[16:17:33] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x10
+[16:17:33] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x11
+[16:17:33] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x12
+[16:17:33] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x13
+[16:17:33] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x14
+[16:17:33] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x15
+[16:17:33] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x16
+[16:17:37] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x63
+[16:17:37] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x5
+[16:17:39] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x64
+[16:17:39] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (B)* ˜5x21
+[16:17:39] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x65
+[16:17:40] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x66
+[16:17:41] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x67
+[16:17:41] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x68
+[16:17:42] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x6
+[16:17:42] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x22
+[16:17:42] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x69
+[16:17:43] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x70
+[16:17:43] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x71
+[16:17:45] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x23
+[16:17:45] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x72
+[16:17:46] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x1
+[16:17:46] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x73
+[16:17:47] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x2
+[16:17:47] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x74
+[16:17:49] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x75
+[16:17:50] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (B)* ˜5x22
+[16:17:52] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x76
+[16:17:53] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x77
+[16:17:53] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x3
+[16:17:53] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x78
+[16:17:54] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (A) ˜5x3
+[16:17:54] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (A) ˜5x4
+[16:17:54] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (A) ˜5x5
+[16:17:54] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (C) ˜5x9
+[16:17:54] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x4
+[16:17:54] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x79
+[16:17:54] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (A) ˜5x6
+[16:17:54] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (C) ˜5x10
+[16:17:54] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (A) ˜5x7
+[16:17:54] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (C) ˜5x11
+[16:17:54] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (A) ˜5x8
+[16:17:54] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (C) ˜5x12
+[16:17:54] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x5
+[16:17:54] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x80
+[16:17:55] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x6
+[16:17:55] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x81
+[16:18:02] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x7
+[16:18:02] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x82
+[16:18:02] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x8
+[16:18:02] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x7
+[16:18:03] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x9
+[16:18:03] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x83
+[16:18:03] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x10
+[16:18:03] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x84
+[16:18:04] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x11
+[16:18:04] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x85
+[16:18:04] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x12
+[16:18:04] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x86
+[16:18:05] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x13
+[16:18:05] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x87
+[16:18:06] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (B)* ˜5x23
+[16:18:06] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x14
+[16:18:06] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x88
+[16:18:06] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x15
+[16:18:06] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x89
+[16:18:08] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x16
+[16:18:08] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x90
+[16:18:08] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (B)* ˜5x24
+[16:18:08] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x17
+[16:18:08] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x91
+[16:18:13] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x18
+[16:18:13] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x92
+[16:18:14] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x19
+[16:18:14] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x93
+[16:18:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x33
+[16:18:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x34
+[16:18:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x35
+[16:18:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x36
+[16:18:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x20
+[16:18:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x94
+[16:18:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x37
+[16:18:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x38
+[16:18:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (B)* ˜5x25
+[16:18:16] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x21
+[16:18:16] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x95
+[16:18:16] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (B)* ˜5x26
+[16:18:16] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x22
+[16:18:16] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x8
+[16:18:17] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x23
+[16:18:17] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x96
+[16:18:17] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x24
+[16:18:17] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x9
+[16:18:17] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x24
+[16:18:18] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x25
+[16:18:18] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x97
+[16:18:19] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x26
+[16:18:19] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x98
+[16:21:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x17
+[16:21:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (A) ˜5x9
+[16:21:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (A) ˜5x10
+[16:21:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (A) ˜5x11
+[16:21:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x99
+[16:21:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x100
+[16:21:16] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (B)* ˜5x27
+[16:21:16] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x101
+[16:21:16] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x102
+[16:21:17] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (B)* ˜5x28
+[16:21:17] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x103
+[16:21:17] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dAim (D) ˜5x26
+[16:21:17] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dAim (D) ˜5x27
+[16:21:17] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (B)* ˜5x29
+[16:21:17] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dAim (D) ˜5x28
+[16:21:17] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x104
+[16:21:18] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dAim (D) ˜5x29
+[16:21:18] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (B)* ˜5x30
+[16:21:18] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x25
+[16:21:19] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x18
+[16:21:20] [Client thread/INFO]: [CHAT] Set fly mode enabled for izibane.
+[16:21:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x10
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x11
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x12
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x27
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x1
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x13
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x28
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x2
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x14
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x29
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x3
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x15
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x30
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x4
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x16
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x31
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x5
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x17
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x32
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x6
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x18
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x33
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x7
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x19
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x34
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x8
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x20
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x21
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x22
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x23
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x24
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x25
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x26
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x27
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x28
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x29
+[16:21:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x30
+[16:21:22] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x31
+[16:21:22] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x32
+[16:21:22] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x33
+[16:21:22] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x34
+[16:21:22] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x35
+[16:21:22] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x36
+[16:21:22] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x37
+[16:21:22] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x38
+[16:21:22] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x39
+[16:21:22] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x40
+[16:21:22] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x41
+[16:21:22] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x42
+[16:21:22] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x43
+[16:21:22] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x44
+[16:21:22] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x45
+[16:21:22] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x46
+[16:21:22] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x47
+[16:21:22] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x48
+[16:21:23] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x49
+[16:21:23] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x50
+[16:21:23] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x51
+[16:21:23] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x52
+[16:21:23] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x53
+[16:21:24] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x54
+[16:21:24] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x55
+[16:21:24] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x56
+[16:21:24] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x57
+[16:21:24] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x58
+[16:21:24] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x59
+[16:21:35] [Client thread/INFO]: [CHAT] <Salers> ?
+[16:22:34] [Client thread/INFO]: [CHAT] <izibane> ?
+[16:22:56] [Client thread/INFO]: [CHAT] Teleporting to izibane.
+[16:22:58] [Client thread/INFO]: [CHAT] Teleporting to izibane.
+[16:22:58] [Client thread/INFO]: [CHAT] Teleporting to izibane.
+[16:22:58] [Client thread/INFO]: [CHAT] Teleporting to izibane.
+[16:22:59] [Client thread/INFO]: [CHAT] Teleporting to izibane.
+[16:22:59] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dTimer (B) ˜5x3
+[16:22:59] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dTimer (B) ˜5x4
+[16:22:59] [Client thread/INFO]: [CHAT] Teleporting to izibane.
+[16:22:59] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dTimer (B) ˜5x5
+[16:22:59] [Client thread/INFO]: [CHAT] Teleporting to izibane.
+[16:22:59] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dTimer (B) ˜5x6
+[16:24:24] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dAim (D) ˜5x30
+[16:30:05] [Client thread/INFO]: [CHAT] [Server: Stopping the server]
+[16:30:05] [Client thread/INFO]: [CHAT] Salers left the game.
+[16:31:54] [Client thread/INFO]: Connecting to 78.108.218.19, 25606
+[16:31:55] [Client thread/INFO]: [CHAT] izibane joined the game
+[16:31:55] [Client thread/INFO]: [CHAT] Welcome, izibane!
+[16:31:55] [Client thread/INFO]: [CHAT] Type /help for a list of commands.
+[16:31:55] [Client thread/INFO]: [CHAT] Type /list to see who else is online.
+[16:31:55] [Client thread/INFO]: [CHAT] Players online: 2 - World time: 6:00 AM
+[16:31:55] [Client thread/INFO]: [CHAT] You have no new mail.
+[16:31:55] [Client thread/INFO]: [CHAT] There is a new EssentialsX version available for download: 2.19.4.
+[16:31:55] [Client thread/INFO]: [CHAT] Download it here: https://essentialsx.net/downloads.html?branch=stable
+[16:32:06] [Client thread/INFO]: [CHAT] Debug messages are now disabled.
+[16:32:13] [Client thread/INFO]: [CHAT] Alerts are now enabled!
+[16:32:14] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x1
+[16:32:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x2
+[16:32:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x3
+[16:32:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x4
+[16:32:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x5
+[16:32:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x6
+[16:32:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x7
+[16:32:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x8
+[16:32:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x9
+[16:32:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x10
+[16:32:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x11
+[16:32:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x12
+[16:32:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x13
+[16:32:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x14
+[16:32:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x15
+[16:32:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x16
+[16:32:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x17
+[16:32:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x18
+[16:32:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dMotion (A) ˜5x6
+[16:32:15] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x19
+[16:32:16] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x20
+[16:32:16] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x21
+[16:32:16] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x22
+[16:32:16] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAim (D) ˜5x23
+[16:32:17] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dMotion (A) ˜5x7
+[16:32:18] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dMotion (A) ˜5x8
+[16:32:19] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dMotion (A) ˜5x9
+[16:32:21] [Client thread/INFO]: [CHAT] Salers was slain by izibane
+[16:32:21] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dMotion (A) ˜5x10
+[16:32:23] [Client thread/INFO]: [CHAT] <izibane> L
+[16:32:26] [Client thread/INFO]: [CHAT] izibane has just earned the achievement [Taking Inventory]
+[16:32:29] [Client thread/INFO]: [CHAT] [Salers: Set game difficulty to Peaceful]
+[16:32:33] [Client thread/INFO]: [CHAT] Cleared all inventory items from izibane.
+[16:32:36] [Client thread/INFO]: [CHAT] Teleporting...
+[16:32:37] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x1
+[16:32:37] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x2
+[16:32:37] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x3
+[16:32:37] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x4
+[16:32:37] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dFly (A) ˜5x5
+[16:32:41] [Client thread/INFO]: [CHAT] <Salers> t
+[16:32:42] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x1
+[16:32:43] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x2
+[16:32:44] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x3
+[16:32:46] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x4
+[16:32:47] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x5
+[16:32:48] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x6
+[16:32:50] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x7
+[16:33:11] [Client thread/INFO]: Connecting to 78.108.218.19, 25606
+[16:33:12] [Client thread/INFO]: [CHAT] izibane joined the game
+[16:33:12] [Client thread/INFO]: [CHAT] Welcome, izibane!
+[16:33:12] [Client thread/INFO]: [CHAT] Type /help for a list of commands.
+[16:33:12] [Client thread/INFO]: [CHAT] Type /list to see who else is online.
+[16:33:12] [Client thread/INFO]: [CHAT] Players online: 1 - World time: 6:00 AM
+[16:33:12] [Client thread/INFO]: [CHAT] You have no new mail.
+[16:33:12] [Client thread/INFO]: [CHAT] There is a new EssentialsX version available for download: 2.19.4.
+[16:33:12] [Client thread/INFO]: [CHAT] Download it here: https://essentialsx.net/downloads.html?branch=stable
+[16:33:19] [Client thread/INFO]: Reloading ResourceManager: Default, ! ˜5pastelic ˜fv˜52 ˜8[˜5purple˜8].zip
+[16:33:20] [Client thread/INFO]: SoundSystem shutting down...
+[16:33:20] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[16:33:20] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:33:20] [Thread-11/INFO]: Initializing LWJGL OpenAL
+[16:33:20] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:33:21] [Thread-11/INFO]: OpenAL initialized.
+[16:33:21] [Sound Library Loader/INFO]: Sound engine started
+[16:33:21] [Client thread/INFO]: Created: 4096x2048 textures-atlas
+[16:33:28] [Client thread/INFO]: [CHAT] Alerts are now enabled!
+[16:34:10] [Client thread/INFO]: [CHAT] Salers joined the game
+[16:34:16] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x1
+[16:34:18] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x1
+[16:34:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x2
+[16:34:20] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x2
+[16:34:25] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x3
+[16:34:26] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x3
+[16:34:26] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x4
+[16:34:26] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x4
+[16:34:26] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x5
+[16:34:26] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x6
+[16:34:27] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x1
+[16:34:27] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x2
+[16:34:27] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x3
+[16:34:27] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x4
+[16:34:28] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x5
+[16:34:28] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x6
+[16:34:29] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x5
+[16:34:29] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x7
+[16:34:31] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x6
+[16:34:33] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x7
+[16:34:34] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x7
+[16:34:34] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (C) ˜5x1
+[16:34:34] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x8
+[16:34:34] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (A) ˜5x1
+[16:34:34] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (C) ˜5x2
+[16:34:34] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x9
+[16:34:34] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (A) ˜5x2
+[16:34:34] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (C) ˜5x3
+[16:34:34] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x10
+[16:34:35] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (A) ˜5x3
+[16:34:35] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (C) ˜5x4
+[16:34:35] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x11
+[16:34:36] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x8
+[16:34:37] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x9
+[16:34:39] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x10
+[16:34:39] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x8
+[16:34:48] [Client thread/INFO]: [CHAT] Teleporting to Salers.
+[16:34:59] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x9
+[16:34:59] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x10
+[16:34:59] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x11
+[16:34:59] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x11
+[16:34:59] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x12
+[16:34:59] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x13
+[16:35:00] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x12
+[16:35:00] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x13
+[16:35:00] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x14
+[16:35:00] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x15
+[16:35:00] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x16
+[16:35:00] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x17
+[16:35:05] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x14
+[16:35:05] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x15
+[16:35:05] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x12
+[16:35:05] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x16
+[16:35:05] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x17
+[16:35:05] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x18
+[16:35:05] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x19
+[16:35:05] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x20
+[16:35:05] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x21
+[16:35:06] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x22
+[16:35:06] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x23
+[16:35:06] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x13
+[16:35:06] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x24
+[16:35:06] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x25
+[16:35:06] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x26
+[16:35:06] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x27
+[16:35:06] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x28
+[16:35:06] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x14
+[16:35:06] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x29
+[16:35:06] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x30
+[16:35:06] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x31
+[16:35:07] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x32
+[16:35:07] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x33
+[16:35:07] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x34
+[16:35:07] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x15
+[16:35:07] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x35
+[16:35:07] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x36
+[16:35:07] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x37
+[16:35:07] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x38
+[16:35:07] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x39
+[16:35:07] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x40
+[16:35:07] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x16
+[16:35:07] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x41
+[16:35:08] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x42
+[16:35:08] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x43
+[16:35:08] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x44
+[16:35:08] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x45
+[16:35:08] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x17
+[16:35:08] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x46
+[16:35:08] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x47
+[16:35:08] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x48
+[16:35:08] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x49
+[16:35:08] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x50
+[16:35:08] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x51
+[16:35:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x52
+[16:35:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x53
+[16:35:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x54
+[16:35:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x55
+[16:35:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dMotion (A) ˜5x18
+[16:35:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x56
+[16:35:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x57
+[16:35:12] [Client thread/INFO]: [CHAT] <izibane> huh
+[16:35:27] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dReach (A)* ˜5x58
+[16:35:28] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dSalers ˜7failed ˜dAutoclicker (D) ˜5x18
+[16:35:34] [Client thread/INFO]: [CHAT] You have been healed.
+[16:35:34] [Client thread/INFO]: [CHAT] Healed izibane.
+[16:35:41] [Client thread/INFO]: [CHAT] <Salers> where ReachB??
+[16:40:01] [Client thread/INFO]: [CHAT] Set fly mode enabled for izibane.
+[16:40:04] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x1
+[16:40:04] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x2
+[16:40:04] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x3
+[16:40:04] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x4
+[16:40:04] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x5
+[16:40:04] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x6
+[16:40:04] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x7
+[16:40:04] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x1
+[16:40:04] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x8
+[16:40:04] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x2
+[16:40:04] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x9
+[16:40:04] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x3
+[16:40:04] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x10
+[16:40:04] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x4
+[16:40:04] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x11
+[16:40:04] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x5
+[16:40:04] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x12
+[16:40:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x6
+[16:40:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x13
+[16:40:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x7
+[16:40:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x14
+[16:40:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x8
+[16:40:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x15
+[16:40:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x9
+[16:40:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x16
+[16:40:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x10
+[16:40:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x17
+[16:40:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x11
+[16:40:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x18
+[16:40:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x12
+[16:40:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x19
+[16:40:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x13
+[16:40:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x20
+[16:40:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x14
+[16:40:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x21
+[16:40:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x15
+[16:40:09] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x22
+[16:40:36] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x23
+[16:40:36] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x16
+[16:40:36] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x24
+[16:40:36] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x17
+[16:40:36] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x25
+[16:40:36] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x18
+[16:40:36] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x26
+[16:40:36] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x19
+[16:40:36] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x27
+[16:40:37] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x20
+[16:40:37] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x28
+[16:40:37] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x21
+[16:40:37] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x29
+[16:40:37] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dSpeed (A) ˜5x22
+[16:40:37] [Client thread/INFO]: [CHAT] ˜5Annunaki ˜7// ˜dizibane ˜7failed ˜dStrafe (A) ˜5x30
