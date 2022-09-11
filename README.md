@@ -18,3 +18,5 @@ high iq
 lying about me leaking it? warra cap
 ![image](https://user-images.githubusercontent.com/77923336/189528725-30cd6ab6-40d7-4b34-ae16-8e5d4d2abcd6.png)
 
+client log w/ 130 false flags in 2 minutes
+https://github.com/Izibane/Annunaki/blob/main/2022-07-24-3.log
